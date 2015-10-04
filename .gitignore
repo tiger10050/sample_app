@@ -18,4 +18,5 @@
 
 .secret
 .idea/
+config/database.yml
 
